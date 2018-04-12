@@ -1,0 +1,8 @@
+node_modules
+
+# invoke 'cordova prepare' to install these
+platforms
+plugins
+
+# www stores build artifacts created by webpack
+www
