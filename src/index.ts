@@ -1,4 +1,4 @@
-import './css/index.scss'
+require('./css/index.scss')
 import { App } from "./ts/app";
 
 const app = new App();
